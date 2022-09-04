@@ -30,3 +30,85 @@ body {
     height: 10%;
     width: 20%;
 }
+
+.survey {
+    width: 80%;
+    margin: 20px auto;
+    background: cornflowerblue;
+    color: black;
+    height: 200px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 7px black;
+    text-align: center;
+}
+
+.survey h3 {
+    margin: 8px;
+    padding-top: 10px;
+}
+
+.survey li {
+
+margin: 10px;
+cursor: pointer;
+}
+
+
+.survey li:hover {
+    background: darkblue;
+    width: 150px;
+    margin: 0 auto;
+    padding: 4px;
+    border-radius: 3px;
+    transition: 0.3s ease;
+}
+
+
+.end {
+    background:cornflowerblue ;
+    color: white;
+    width: 80%;
+    margin: 35% auto;
+    padding:20px 0;
+    border-radius: 3px;
+    box-shadow: 1 px 1px 7px rgb(0, 0, 0.4);
+}
+
+
+.end p {
+    padding:10px;
+}
+
+.end  {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 4px;
+    background-image: url();
+    background: rgb(61, 61, 61);
+    text-align: center;
+
+    outline: none;
+}
+
+.end a:hover {
+    box-shadow: 1px 1px 7px rgb(0, 0, 0.4);
+    transition: 0.03s;
+}
+
+
+.q1 {
+    display: block;
+}
+
+.q2 {
+    display:none
+}
+
+.q3 {
+display: none;
+}
+
+.end {
+    display: none;
+}
