@@ -74,22 +74,25 @@ h2 {
 }
 
 .aboutme{
+    
     border: 2px soild black;
     border-radius: 3px;
+    width:auto;
+
     margin: 20px auto;
     color: black;
-    box-shadow: 1px 1px 15px  cornflowerblue;
+    box-shadow: 2px 2px 15px  rgb(144, 238, 139);
     background-color: rgb(4, 162, 4);
 
 }
 
 .myprojects{
     border: 2px soild black;
-    width:50% ;
+    width:45% ;
     border-radius: 3px;
     margin: 20px auto;
     color: black;
-    box-shadow: 1px 1px 15px  cornflowerblue;
+    box-shadow: 1px 1px 15px  rgb(102, 152, 243);
     background-color: rgb(44, 73, 236);
 
 }
