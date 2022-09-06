@@ -16,7 +16,7 @@ h2 {
     text-shadow: 2px 2px 2px black;
 }    
 
-.header-centered{
+.header-centered {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: relative;
     text-align: center;
@@ -27,7 +27,7 @@ h2 {
     
 }
 
-#My-pic{
+#My-pic {
     border: 2px solid black;
     border-radius: 300px;
     height: 20%;
@@ -36,11 +36,11 @@ h2 {
 
 }
 
-.GH{
+.GH {
     text-align: center;
 }
 
-#Grasshopper{ 
+#Grasshopper { 
     border: 6px solid black;
     border-radius: 300px;
     height: 10%;
@@ -51,83 +51,15 @@ h2 {
     box-shadow: 1px 1px 15px black;
 }
 
-.survey {
-    width: 70%;
-    margin: 20px auto;
-    background: cornflowerblue;
-    color: black;
-    height: 200px;
-    border-radius: 3px;
-    box-shadow: 1px 1px 7px black;
-    text-align: center;
-}
-
-.survey h3 {
-    margin: 8px;
-    padding-top: 10px;
-}
-
-.survey li {
-
-margin: 10px;
-cursor: pointer;
-}
-
-
-.survey li:hover {
+.myprojects li:hover {
     background: darkblue;
-    width: 150px;
     margin: 0 auto;
     padding: 4px;
     border-radius: 3px;
     transition: 0.3s ease;
 }
 
-
-.end {
-    background: cornflowerblue;
-    color: white;
-    width: 80%;
-    margin: 35% auto;
-    padding:20px 0;
-    border-radius: 3px;
-    box-shadow: 1 px 1px 7px rgb(0, 0, 0.4);
-}
-
-
-.end p {
-    padding:10px;
-}
-
-.end  {
-    display: inline-block;
-    margin-top: 10px;
-    padding: 5px;
-    border-radius: 4px;
-    background-image: url();
-    text-align: center;
-
-    outline: none;
-}
-
-.end a:hover {
-    box-shadow: 1px 1px 7px rgb(0, 0, 0.4);
-    transition: 0.03s;
-}
-
-
-.q1 {
-    display: block;
-}
-
-.q2 {
-    display: none
-}
-
-.q3 {
-display: none;
-}
-
-.end {
-    display: none;
+.js-botton {
+box-shadow: 5px 5px 5px black;
+text-shadow: 2px 2px 2px black;
 }
